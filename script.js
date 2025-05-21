@@ -158,7 +158,7 @@ const bird = {
     dH : 70,
     cX : 0,
     cY : 0,
-    radius : 21,
+    radius : 10,
 
     frame : 0,
     velocity : 0,
